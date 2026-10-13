@@ -2,16 +2,17 @@
 
 Public release notes for [IssuePulse](https://app.issuepulse.io), one-click feedback links for newsletters.
 
-**App:** [app.issuepulse.io](https://app.issuepulse.io)
+**App:** [app.issuepulse.io](https://app.issuepulse.io) · **Website:** [issuepulse.io](https://www.issuepulse.io) · **Changelog:** [issuepulse.io/changelog](https://www.issuepulse.io/changelog)
 
 ## Latest release
 
-**[v1.0.0](releases/v1/v1.0.0.md)** — 9 October 2026 — First public release.
+**[v1.1.0](releases/v1/v1.1.0.md)** — 14 October 2026 — The app matches issuepulse.io; All time really means all time.
 
 ## All releases
 
 | Version | Date | Type | Summary |
 |---|---|---|---|
+| [v1.1.0](releases/v1/v1.1.0.md) | 2026-10-14 | Minor | App matches issuepulse.io; real all-time trend; help center links |
 | [v1.0.0](releases/v1/v1.0.0.md) | 2026-10-09 | Major | First public release |
 
 For a short, one-page view of every version, see [CHANGELOG.md](CHANGELOG.md).
