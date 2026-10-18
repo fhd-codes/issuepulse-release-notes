@@ -4,6 +4,31 @@ Every IssuePulse release, newest first. Each entry links to its full release not
 
 The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and versions follow [Semantic Versioning](https://semver.org).
 
+## [1.1.0] — 2026-10-18
+
+The app now matches issuepulse.io, and All time really means all time. [Full release notes →](releases/v1/v1.1.0.md)
+
+### Added
+- Trend chart "All time" covers every day since a topic was created, scrolling sideways past 90 days.
+- Embed opens count whatever format the topic is set to.
+- "Learn more" links from each setting to its help center article; Help center and What's new in the sidebar.
+- Release number at the bottom of the sidebar.
+- IssuePulse logo, browser-tab icon and a small "Feedback by IssuePulse" line on the reader thank-you page.
+- Terms and Privacy links on sign-up; how to delete your account in profile settings.
+
+### Changed
+- Copy format is remembered per topic and starts on the topic's own format.
+- Colours and headline type match the website; small grey text is easier to read.
+- The embed's "powered by IssuePulse" link goes to issuepulse.io.
+
+### Removed
+- The in-app Guide page, replaced by the help center.
+
+### Fixed
+- Comments total stopping at 50.
+- "1 votes" / "1 opens" in the chart legend.
+- Trend chart days around clock changes.
+
 ## [1.0.0] — 2026-10-09
 
 First public release. [Full release notes →](releases/v1/v1.0.0.md)
