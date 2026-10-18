@@ -6,13 +6,13 @@ Public release notes for [IssuePulse](https://app.issuepulse.io), one-click feed
 
 ## Latest release
 
-**[v1.1.0](releases/v1/v1.1.0.md)** — 14 October 2026 — The app matches issuepulse.io; All time really means all time.
+**[v1.1.0](releases/v1/v1.1.0.md)** — 18 October 2026 — The app matches issuepulse.io; All time really means all time.
 
 ## All releases
 
 | Version | Date | Type | Summary |
 |---|---|---|---|
-| [v1.1.0](releases/v1/v1.1.0.md) | 2026-10-14 | Minor | App matches issuepulse.io; real all-time trend; help center links |
+| [v1.1.0](releases/v1/v1.1.0.md) | 2026-10-18 | Minor | App matches issuepulse.io; real all-time trend; help center links |
 | [v1.0.0](releases/v1/v1.0.0.md) | 2026-10-09 | Major | First public release |
 
 For a short, one-page view of every version, see [CHANGELOG.md](CHANGELOG.md).

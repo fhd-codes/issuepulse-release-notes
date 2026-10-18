@@ -4,7 +4,7 @@ Every IssuePulse release, newest first. Each entry links to its full release not
 
 The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and versions follow [Semantic Versioning](https://semver.org).
 
-## [1.1.0] — 2026-10-14
+## [1.1.0] — 2026-10-18
 
 The app now matches issuepulse.io, and All time really means all time. [Full release notes →](releases/v1/v1.1.0.md)
 
