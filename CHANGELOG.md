@@ -4,6 +4,18 @@ Every IssuePulse release, newest first. Each entry links to its full release not
 
 The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and versions follow [Semantic Versioning](https://semver.org).
 
+## [1.2.0] — 2026-10-20
+
+Track each issue you send: its own links, a score, sponsored vs regular, a weekly summary and CSV export. [Full release notes →](releases/v1/v1.2.0.md)
+
+### Added
+- Issues: log each send and copy its own links, so every vote and embed open is tied to that issue.
+- Issue score from -100 to +100, shown once an issue has 5 votes.
+- Sponsored vs regular: how sponsored issues score against your regular ones, from 3 scored issues of each kind.
+- Positive, neutral or negative setting for each link, used by issue scores.
+- "This week" summary on the dashboard: votes, top topic, most requested topic, best and weakest issue, new comments.
+- CSV export of votes, comments and issues in Settings.
+
 ## [1.1.1] — 2026-10-19
 
 Workspace settings are protected, and your handle locks once your links are in use. [Full release notes →](releases/v1/v1.1.1.md)
