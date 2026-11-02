@@ -6,12 +6,13 @@ Public release notes for [IssuePulse](https://app.issuepulse.io), one-click feed
 
 ## Latest release
 
-**[v1.2.0](releases/v1/v1.2.0.md)** — 20 October 2026 — Track each issue: its own links, issue scores, sponsored vs regular, a weekly summary and CSV export.
+**[v1.3.0](releases/v1/v1.3.0.md)** — 3 November 2026 — A faster dashboard that shows each page the moment you click.
 
 ## All releases
 
 | Version | Date | Type | Summary |
 |---|---|---|---|
+| [v1.3.0](releases/v1/v1.3.0.md) | 2026-11-03 | Minor | Faster dashboard; loading previews on every page; busy states for search and saving |
 | [v1.2.0](releases/v1/v1.2.0.md) | 2026-10-20 | Minor | Issues, issue scores, sponsored vs regular, weekly summary, CSV export |
 | [v1.1.1](releases/v1/v1.1.1.md) | 2026-10-19 | Patch | Workspace settings protected; handle locks once links are in use |
 | [v1.1.0](releases/v1/v1.1.0.md) | 2026-10-18 | Minor | App matches issuepulse.io; real all-time trend; help center links |
