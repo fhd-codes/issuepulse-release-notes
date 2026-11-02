@@ -4,6 +4,17 @@ Every IssuePulse release, newest first. Each entry links to its full release not
 
 The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and versions follow [Semantic Versioning](https://semver.org).
 
+## [1.3.0] — 2026-11-03
+
+A faster dashboard that shows each page the moment you click. [Full release notes →](releases/v1/v1.3.0.md)
+
+### Changed
+- Every dashboard page shows a loading preview straight away, instead of freezing until it's ready.
+- Pages load their data in fewer steps, so they finish sooner.
+- Topic search, filters, sorting and paging show when they're working, and the menus keep the option you picked.
+- Save and delete buttons stay busy until the page shows your change.
+- Changing your password signs out your other devices within 5 minutes, instead of straight away.
+
 ## [1.2.0] — 2026-10-20
 
 Track each issue you send: its own links, a score, sponsored vs regular, a weekly summary and CSV export. [Full release notes →](releases/v1/v1.2.0.md)
