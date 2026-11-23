@@ -4,6 +4,14 @@ Every IssuePulse release, newest first. Each entry links to its full release not
 
 The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and versions follow [Semantic Versioning](https://semver.org).
 
+## [1.3.1] — 2026-11-23
+
+The app and the pricing page now only describe features that IssuePulse has or plans. [Full release notes →](releases/v1/v1.3.1.md)
+
+### Fixed
+- Topic pages no longer show a "Reader map" box for a feature that isn't built.
+- The pricing page lists the right planned features for Pro and Business. Features that are already free, like issue scores, sponsored vs. regular issues and CSV export, are no longer shown as Pro.
+
 ## [1.3.0] — 2026-11-03
 
 A faster dashboard that shows each page the moment you click. [Full release notes →](releases/v1/v1.3.0.md)
